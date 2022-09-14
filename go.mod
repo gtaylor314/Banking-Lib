@@ -1,4 +1,4 @@
-module github.com/gtaylor314/Banking-Lib.git
+module github.com/gtaylor314/Banking-Lib
 
 go 1.19
 
